@@ -1,0 +1,6 @@
+.env/
+**/*.wowsreplay
+**/*.json
+**/__pycache__/
+**/*.dat
+**/*.log
